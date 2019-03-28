@@ -9,4 +9,4 @@ We'll be posting past meetup notes here.
 
 # Helping
 
-If you have slides or additional notes that you captured, all PR's are welcome to enhance this page and notes page.
+If you have suggestions for how this project could be improved, or want to help contribute to the notes, please do open a PR. We'd love all and any contributions. :tada:
